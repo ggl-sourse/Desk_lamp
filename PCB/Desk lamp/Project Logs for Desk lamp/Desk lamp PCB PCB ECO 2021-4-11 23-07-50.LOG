@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=KEY1 Pin=RST1-4
+Change Component Footprint: Designator=R-1 Old Footprint=3303W New Footprint=3319P
+Added Pin To Net: NetName=KEY2 Pin=RST2-1
+Added Room: Name=Desk lamp‘≠¿ÌÕº

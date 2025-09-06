@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=KEY1 Pin=SW1-2
+Removed Pin From Net: NetName=KEY1 Pin=SW1-3
+Removed Pin From Net: NetName=KEY2 Pin=SW2-2
+Removed Pin From Net: NetName=GND Pin=SW2-3
+Removed Member From Class: ClassName=Desk lamp原理图 Member=SW1
+Removed Member From Class: ClassName=Desk lamp原理图 Member=SW2
+Added Component: Designator=RST1(TSW DIP-6*6*7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RST2(TSW DIP-6*6*7)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KEY1 Pin=RST1-1
+Added Pin To Net: NetName=GND Pin=RST1-3
+Added Pin To Net: NetName=KEY2 Pin=RST2-1
+Added Pin To Net: NetName=GND Pin=RST2-3
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component RST1 KEY
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component RST2 KEY
+Added Room: Name=Desk lamp原理图

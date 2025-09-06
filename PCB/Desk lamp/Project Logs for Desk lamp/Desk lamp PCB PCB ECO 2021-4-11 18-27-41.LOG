@@ -1,0 +1,48 @@
+Change Component Footprint: Designator=U1 Old Footprint=PCBComponent_1 New Footprint=Nano
+Change Component Footprint: Designator=J6 Old Footprint=XH2.54-LI-3P New Footprint=HDR2.54-LI-3P
+Change Component Footprint: Designator=J7 Old Footprint=XH2.54-LI-4P New Footprint=HDR2.54-LI-4P
+Added Component: Designator=J1(HDR2.54-LI-3P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(HDR2.54-LI-2x3P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(HDR2.54-LI-5P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(HDR2.54-LI-5P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(XH2.54-LI-3P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J(HDR2.54-LI-5P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TXD Pin=J1-1
+Added Pin To Net: NetName=RXD Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=MISO Pin=J2-1
+Added Pin To Net: NetName=+5 Pin=J2-2
+Added Pin To Net: NetName=SCK Pin=J2-3
+Added Pin To Net: NetName=MOSI Pin=J2-4
+Added Pin To Net: NetName=RES Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=+3V3 Pin=J3-1
+Added Pin To Net: NetName=+3V3 Pin=J3-2
+Added Pin To Net: NetName=+3V3 Pin=J3-3
+Added Pin To Net: NetName=+3V3 Pin=J3-4
+Added Pin To Net: NetName=+3V3 Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=+5 Pin=J5-2
+Added Pin To Net: NetName=D7 Pin=J5-3
+Added Pin To Net: NetName=+5 Pin=J-1
+Added Pin To Net: NetName=+5 Pin=J-2
+Added Pin To Net: NetName=+5 Pin=J-3
+Added Pin To Net: NetName=+5 Pin=J-4
+Added Pin To Net: NetName=+5 Pin=J-5
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J1 =value
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J2 2*3P排针
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J3 3V3
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J4 3V3
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J5 NPN
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J 3V3

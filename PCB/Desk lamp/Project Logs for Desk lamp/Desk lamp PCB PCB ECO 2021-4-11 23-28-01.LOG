@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=KEY1 Pin=RST1-4
+Added Component: Designator=Q1(SOT23-3L)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KEY2 Pin=RST2-1
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component Q1 S8050
+Added Room: Name=Desk lamp原理图

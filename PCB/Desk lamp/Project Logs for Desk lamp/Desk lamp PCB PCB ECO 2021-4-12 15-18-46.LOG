@@ -1,0 +1,48 @@
+Change Component Comment : Designator=+5V Old Comment=3V3 New Comment=5V
+Change Component Comment : Designator=OLED Old Comment==value New Comment=OLED
+Change Component Designator: OldDesignator=+3V3 NewDesignator=J3
+Change Component Designator: OldDesignator=+5V NewDesignator=J8
+Change Component Designator: OldDesignator=+5V NewDesignator=JP1
+Change Component Designator: OldDesignator=D4 NewDesignator=J10
+Change Component Designator: OldDesignator=D7 NewDesignator=J5
+Change Component Designator: OldDesignator=D15 NewDesignator=J9
+Change Component Designator: OldDesignator=D212018 NewDesignator=J6
+Change Component Designator: OldDesignator=GND NewDesignator=J4
+Change Component Designator: OldDesignator=ICSP NewDesignator=J2
+Change Component Designator: OldDesignator=OLED NewDesignator=J7
+Change Component Designator: OldDesignator=OLED NewDesignator=P2
+Change Component Designator: OldDesignator=RT NewDesignator=J1
+Change Component Designator: OldDesignator=三极管 NewDesignator=Q1
+Change Component Designator: OldDesignator=光敏电阻 NewDesignator=RG1
+Change Component Designator: OldDesignator=蜂鸣器 NewDesignator=LS1
+Change Component Designator: OldDesignator=超声波模块 NewDesignator=P1
+Change component parameters: Designator = "JP1"; Footprint = "HT3.96-WI-2P-ORG"; UniqueID = "\SLWPHKJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1"; Footprint = "KFC DIP-8X8"; UniqueID = "\TVWRVKVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RG1"; Footprint = "RG5528"; UniqueID = "\LNDJBSLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "光敏电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R 0603"; UniqueID = "\YXFAZTJQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R 0603"; UniqueID = "\VQQZNJZD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=H1(M3x6+6_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(M3x6+6_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(M3x6+6_L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(M3x6+6_L)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component H1 固定孔
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component H2 固定孔
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component H3 固定孔
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component H4 固定孔
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J8 5V
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component P2 OLED
+Added Room: Name=Desk lamp原理图

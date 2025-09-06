@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [Desk lamp.PrjPcb]
+   Generated File[Fabrication Testpoint Report for Desk lamp PCB.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:00:25 On 2021/4/13

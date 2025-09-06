@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=POWER Pin=S1-2
+Change Component Footprint: Designator=R-1 Old Footprint=3296W New Footprint=3303W
+Change Component Footprint: Designator=C3 Old Footprint=CAP 2.0*5*7 New Footprint=C 0603
+Change Component Footprint: Designator=C1 Old Footprint=CAP 2.0*5*7 - BK New Footprint=C 0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP 2.0*5*7 - BK New Footprint=C 0603
+Change Component Footprint: Designator=S1 Old Footprint=KFC DIP-7X7 New Footprint=MSK-12C01-07
+Change Component Footprint: Designator=R1 Old Footprint=RS 1/4W New Footprint=R 0603
+Change Component Footprint: Designator=R2 Old Footprint=RS 1/4W New Footprint=R 0603
+Added Room: Name=Desk lamp‘≠¿ÌÕº

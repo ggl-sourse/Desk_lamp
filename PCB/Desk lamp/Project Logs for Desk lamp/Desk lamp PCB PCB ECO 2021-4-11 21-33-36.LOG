@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+5 Pin=LS1-1
+Removed Pin From Net: NetName=D17 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23_M New Footprint=SS8050
+Change Component Footprint: Designator=SW1 Old Footprint=TSW DIP-6*6*7 New Footprint=KW01-00
+Change Component Footprint: Designator=SW2 Old Footprint=TSW DIP-6*6*7 New Footprint=KW01-00
+Added Pin To Net: NetName=D17 Pin=Q1-B
+Added Pin To Net: NetName=GND Pin=Q1-E
+Added Pin To Net: NetName=NetLS1_B Pin=Q1-C
+Added Net: Name=NetLS1_B
+Added Room: Name=Desk lamp‘≠¿ÌÕº

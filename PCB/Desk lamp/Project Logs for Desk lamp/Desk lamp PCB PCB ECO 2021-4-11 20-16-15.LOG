@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=KEY1 Pin=RST1-1
+Removed Pin From Net: NetName=KEY2 Pin=RST2-1
+Removed Pin From Net: NetName=GND Pin=RST2-2
+Removed Pin From Net: NetName=GND Pin=RST2-3
+Removed Member From Class: ClassName=Desk lamp原理图 Member=RST1
+Removed Member From Class: ClassName=Desk lamp原理图 Member=RST2
+Change Component Footprint: Designator=C1 Old Footprint=C 0603 New Footprint=C 0805_L
+Change Component Footprint: Designator=C2 Old Footprint=C 0603 New Footprint=C 0805_L
+Change Component Footprint: Designator=C3 Old Footprint=C 0603 New Footprint=C 0805_L
+Change Component Footprint: Designator=J1 Old Footprint=HDR2.54-LI-4P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=J7 Old Footprint=HDR2.54-LI-4P New Footprint=XH2.54-LI-4P
+Change Component Footprint: Designator=S1 Old Footprint=KFC DIP-7X7 New Footprint=KFC DIP-8X8
+Change Component Footprint: Designator=R1 Old Footprint=RS 3W New Footprint=R 0603
+Change Component Footprint: Designator=J5 Old Footprint=XH2.54-LI-3P New Footprint=HDR2.54-LI-3P
+Change Component Footprint: Designator=J10 Old Footprint=XH2.54-LI-3P New Footprint=HDR2.54-LI-3P
+Added Component: Designator=SW1(KW01-00)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "微动开关"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(KW01-00)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "微动开关"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KEY1 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=KEY2 Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component SW1 KW01-00
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component SW2 KW01-00
+Added Room: Name=Desk lamp原理图

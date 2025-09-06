@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=KEY2 Pin=RST2-4
+Change component parameters: Designator = "RG1"; Footprint = "RG5528"; UniqueID = "\LNDJBSLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "光敏电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1"; Footprint = "KFC DIP-8X8"; UniqueID = "\TVWRVKVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R 0603"; UniqueID = "\YXFAZTJQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R 0603"; UniqueID = "\VQQZNJZD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KEY1 Pin=RST1-1
+Added Room: Name=Desk lamp原理图

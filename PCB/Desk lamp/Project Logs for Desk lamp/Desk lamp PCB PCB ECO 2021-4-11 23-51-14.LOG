@@ -1,0 +1,11 @@
+Added Component: Designator=KEY1(TSW DIP-12*12*4.3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=KEY2(TSW DIP-12*12*4.3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KEY1 Pin=KEY1-1
+Added Pin To Net: NetName=GND Pin=KEY1-3
+Added Pin To Net: NetName=KEY2 Pin=KEY2-1
+Added Pin To Net: NetName=GND Pin=KEY2-3
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component KEY1 KEY
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component KEY2 KEY
+Added Room: Name=Desk lamp原理图

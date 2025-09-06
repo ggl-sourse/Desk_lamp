@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Change Component Footprint: Designator=LS1 Old Footprint=·äÃùÆ÷ New Footprint=BEEP 7.6x12x9.5
+Added Pin To Net: NetName=KEY1 Pin=SW1-2
+Added Room: Name=Desk lampÔ­ÀíÍ¼

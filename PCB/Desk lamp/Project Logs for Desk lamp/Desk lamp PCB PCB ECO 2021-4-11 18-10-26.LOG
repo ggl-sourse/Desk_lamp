@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R2 Old Footprint=R 0603 New Footprint=RS 1/4W
+Added Component: Designator=RST2(TSW DIP-2Pin-6*6*7)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KEY2 Pin=RST2-1
+Added Pin To Net: NetName=GND Pin=RST2-2
+Added Member To Class: ClassName=Desk lamp‘≠¿ÌÕº Member=Component RST2 KEY

@@ -1,0 +1,29 @@
+Added Component: Designator=U1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TXD Pin=U1-1
+Added Pin To Net: NetName=RXD Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=KEY1 Pin=U1-5
+Added Pin To Net: NetName=KEY2 Pin=U1-6
+Added Pin To Net: NetName=D4 Pin=U1-7
+Added Pin To Net: NetName=D5 Pin=U1-8
+Added Pin To Net: NetName=D6 Pin=U1-9
+Added Pin To Net: NetName=D7 Pin=U1-10
+Added Pin To Net: NetName=D9 Pin=U1-12
+Added Pin To Net: NetName=D10 Pin=U1-13
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Pin To Net: NetName=MISO Pin=U1-15
+Added Pin To Net: NetName=SCK Pin=U1-16
+Added Pin To Net: NetName=+3V3 Pin=U1-17
+Added Pin To Net: NetName=D14 Pin=U1-19
+Added Pin To Net: NetName=D15 Pin=U1-20
+Added Pin To Net: NetName=D16 Pin=U1-21
+Added Pin To Net: NetName=D17 Pin=U1-22
+Added Pin To Net: NetName=D18 Pin=U1-23
+Added Pin To Net: NetName=D19 Pin=U1-24
+Added Pin To Net: NetName=D20 Pin=U1-25
+Added Pin To Net: NetName=D21 Pin=U1-26
+Added Pin To Net: NetName=RES Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=+5 Pin=U1-30
+Added Member To Class: ClassName=Desk lamp‘≠¿ÌÕº Member=Component U1 Nano

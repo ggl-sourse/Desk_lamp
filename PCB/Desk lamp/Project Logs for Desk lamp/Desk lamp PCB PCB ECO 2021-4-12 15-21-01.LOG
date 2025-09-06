@@ -1,0 +1,8 @@
+Change Component Comment : Designator=J8 Old Comment=5V New Comment=3V3
+Change Component Comment : Designator=P2 Old Comment=OLED New Comment==value
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component JP1 HDR-1X2
+Added Room: Name=Desk lamp原理图

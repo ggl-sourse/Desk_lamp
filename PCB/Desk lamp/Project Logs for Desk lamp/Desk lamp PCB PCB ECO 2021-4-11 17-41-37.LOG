@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C1 Old Footprint=C 0603 New Footprint=CAP 2.0*5*7 - BK
+Change Component Footprint: Designator=C2 Old Footprint=C 0603 New Footprint=CAP 2.0*5*7 - BK
+Change Component Footprint: Designator=R1 Old Footprint=R 0603 New Footprint=RS 1/4W
+Change Component Footprint: Designator=R2 Old Footprint=R 0603 New Footprint=RS 1/4W
+Change Component Footprint: Designator=JP1 Old Footprint=VH3.96-LI-2P New Footprint=KF2EDGK5.0-WI-2P

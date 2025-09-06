@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J6
+Change Component Designator: OldDesignator=PWM1 NewDesignator=J7
+Added Component: Designator=R-1(3266X)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RG1(RG5528)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "光敏电阻"; VariantName = "[No Variations]"
+Added Component: Designator=S1(MSK-12C01-07)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=D14 Pin=R-1-1
+Added Pin To Net: NetName=GND Pin=R-1-2
+Added Pin To Net: NetName=GND Pin=R-1-3
+Added Pin To Net: NetName=+5 Pin=RG1-1
+Added Pin To Net: NetName=D14 Pin=RG1-2
+Added Pin To Net: NetName=+5 Pin=S1-1
+Added Net: Name=KEY1
+Added Net: Name=KEY2
+Added Pin To Net: NetName=POWER Pin=JP1-1
+Added Pin To Net: NetName=POWER Pin=S1-2
+Added Net: Name=POWER
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J6 NPN
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component R-1 10K
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component RG1 10K
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component S1 SS-12F23
+Added Room: Name=Desk lamp原理图

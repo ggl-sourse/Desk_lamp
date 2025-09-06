@@ -1,0 +1,4 @@
+Added Component: Designator=JP1(VH3.96-LI-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component JP1 HDR-1X2

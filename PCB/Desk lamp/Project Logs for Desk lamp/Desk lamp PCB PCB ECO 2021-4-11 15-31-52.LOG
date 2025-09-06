@@ -1,0 +1,80 @@
+Change component parameters: Designator = "RG1"; Footprint = "RG5528"; UniqueID = "\LNDJBSLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "光敏电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1"; Footprint = "MSK-12C01-07"; UniqueID = "\TVWRVKVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Added Component: Designator=C1(MLCC5.08-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(XH2.54-LI-5P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(XH2.54-LI-4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RS 1W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RST1(TSW DIP-6*6*7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=KEY1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=D5 Pin=P1-3
+Added Pin To Net: NetName=RXD Pin=P1-4
+Added Pin To Net: NetName=+5 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=+5 Pin=P2-2
+Added Pin To Net: NetName=D19 Pin=P2-3
+Added Pin To Net: NetName=D18 Pin=P2-4
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=KEY1 Pin=R1-2
+Added Pin To Net: NetName=KEY1 Pin=RST1-1
+Added Pin To Net: NetName=GND Pin=RST1-2
+Added Pin To Net: NetName=TXD Pin=U1-1
+Added Pin To Net: NetName=TXD Pin=U1-1
+Added Pin To Net: NetName=RXD Pin=U1-2
+Added Pin To Net: NetName=RXD Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=KEY1 Pin=U1-5
+Added Pin To Net: NetName=KEY1 Pin=U1-5
+Added Pin To Net: NetName=KEY2 Pin=U1-6
+Added Pin To Net: NetName=KEY2 Pin=U1-6
+Added Pin To Net: NetName=D4 Pin=U1-7
+Added Pin To Net: NetName=D4 Pin=U1-7
+Added Pin To Net: NetName=D5 Pin=U1-8
+Added Pin To Net: NetName=D5 Pin=U1-8
+Added Pin To Net: NetName=D6 Pin=U1-9
+Added Pin To Net: NetName=D6 Pin=U1-9
+Added Pin To Net: NetName=D7 Pin=U1-10
+Added Pin To Net: NetName=D7 Pin=U1-10
+Added Pin To Net: NetName=D9 Pin=U1-12
+Added Pin To Net: NetName=D9 Pin=U1-12
+Added Pin To Net: NetName=D10 Pin=U1-13
+Added Pin To Net: NetName=D10 Pin=U1-13
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Pin To Net: NetName=MISO Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-15
+Added Pin To Net: NetName=SCK Pin=U1-16
+Added Pin To Net: NetName=+3V3 Pin=U1-17
+Added Pin To Net: NetName=D14 Pin=U1-19
+Added Pin To Net: NetName=D15 Pin=U1-20
+Added Pin To Net: NetName=D16 Pin=U1-21
+Added Pin To Net: NetName=D17 Pin=U1-22
+Added Pin To Net: NetName=D18 Pin=U1-23
+Added Pin To Net: NetName=D19 Pin=U1-24
+Added Pin To Net: NetName=D20 Pin=U1-25
+Added Pin To Net: NetName=D21 Pin=U1-26
+Added Pin To Net: NetName=RES Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=+5 Pin=U1-30
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component C1 =value
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component P1 5P插座
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component P2 4P插座
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component R1 10K
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component RST1 KEY
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component U1 Nano
+Added Room: Name=Desk lamp原理图

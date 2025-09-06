@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=KEY1 Pin=RST1-2
+Removed Pin From Net: NetName=GND Pin=RST2-4
+Added Pin To Net: NetName=KEY1 Pin=RST1-1
+Added Pin To Net: NetName=GND Pin=RST1-3
+Added Pin To Net: NetName=KEY2 Pin=RST2-1
+Added Pin To Net: NetName=GND Pin=RST2-3
+Added Room: Name=Desk lamp‘≠¿ÌÕº

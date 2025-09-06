@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=C1 Old Footprint=MLCC5.08-A New Footprint=C 0603
+Change Component Footprint: Designator=R1 Old Footprint=RS 1W New Footprint=R 0603
+Change Component Comment : Designator=P2 Old Comment=4P插座 New Comment==value
+Change component parameters: Designator = "JP1"; Footprint = "VH3.96-LI-2P"; UniqueID = "\SLWPHKJS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RG1"; Footprint = "RG5528"; UniqueID = "\LNDJBSLK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "光敏电阻"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1"; Footprint = "MSK-12C01-07"; UniqueID = "\TVWRVKVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "波动开关"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "R 0603"; UniqueID = "\YXFAZTJQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP 2.0*5*7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(XH2.54-LI-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(XH2.54-LI-3P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LS1(蜂鸣器)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KEY2 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=D14 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=D15 Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=+5 Pin=J9-2
+Added Pin To Net: NetName=D4 Pin=J9-3
+Added Pin To Net: NetName=+5 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=KEY2 Pin=R2-2
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component C2 =value
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component C3 =value
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J8 =value
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component J9 NPN
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component LS1 Bell
+Added Member To Class: ClassName=Desk lamp原理图 Member=Component R2 10K

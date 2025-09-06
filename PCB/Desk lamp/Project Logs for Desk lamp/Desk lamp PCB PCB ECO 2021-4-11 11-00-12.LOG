@@ -1,0 +1,44 @@
+Added Component: Designator=J1(XH2.54-LI-3P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PWM1(XH2.54-LI-4P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(SOT23_M)
+Add component. Clean all parameters for all variants
+Added Net: Name=+3V3
+Added Net: Name=+5
+Added Net: Name=D4
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=PWM1-4
+Added Net: Name=D6
+Added Net: Name=D7
+Added Pin To Net: NetName=D9 Pin=PWM1-3
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=PWM1-2
+Added Net: Name=D10
+Added Net: Name=D14
+Added Net: Name=D15
+Added Pin To Net: NetName=D16 Pin=J1-1
+Added Net: Name=D16
+Added Pin To Net: NetName=D17 Pin=Q1-1
+Added Net: Name=D17
+Added Net: Name=D18
+Added Net: Name=D19
+Added Pin To Net: NetName=D20 Pin=J1-2
+Added Net: Name=D20
+Added Pin To Net: NetName=D21 Pin=J1-3
+Added Net: Name=D21
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Net: Name=GND
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=PWM1-1
+Added Net: Name=MOSI
+Added Net: Name=NetC1_1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetLS1_2 Pin=Q1-3
+Added Net: Name=NetLS1_2
+Added Net: Name=RES
+Added Net: Name=RXD
+Added Net: Name=SCK
+Added Net: Name=TXD
+Added Class: Name=Desk lamp原理图
+Added Room: Name=Desk lamp原理图

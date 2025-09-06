@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=RST1-2
+Removed Pin From Net: NetName=GND Pin=RST2-2
+Change Component Footprint: Designator=R-1 Old Footprint=3306W New Footprint=3303W
+Change Component Footprint: Designator=C1 Old Footprint=CAP 2.0*5*11 - GD New Footprint=C 0603
+Change Component Footprint: Designator=C2 Old Footprint=CAP 2.0*5*11 - GD New Footprint=C 0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP 2.0*5*11 - GD New Footprint=C 0603
+Change Component Footprint: Designator=R1 Old Footprint=RS 1/4W New Footprint=R 0603
+Change Component Footprint: Designator=R2 Old Footprint=RS 1/4W New Footprint=R 0603
+Change Component Comment : Designator=JP1 Old Comment=JP1 New Comment=HDR-1X2
+Added Pin To Net: NetName=GND Pin=RST1-3
+Added Pin To Net: NetName=GND Pin=RST2-3
+Added Room: Name=Desk lamp‘≠¿ÌÕº
